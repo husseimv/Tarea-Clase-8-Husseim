@@ -34,7 +34,7 @@ C es un lenguaje de programación (considerado como uno de lo más importantes e
 -   Organización del trabajo con total libertad.
 -   Los programas son producidos de forma rápida y son bastante potentes.
 
-### ** Lenguajes basados en C más utilizados**
+### Lenguajes basados en C más utilizados
 
 1. Python
 2. Java
