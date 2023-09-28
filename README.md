@@ -44,3 +44,31 @@ C es un lenguaje de programación (considerado como uno de lo más importantes e
 6. C/C++
 7. R
 8. Perl
+
+##  Lenguajes interpretados vs. compilados
+
+Cada programa es un conjunto de instrucciones, ya sea para sumar dos números o enviar una solicitud a través de Internet. Los compiladores e intérpretes toman código legible por humanos y lo convierten en código de máquina legible por computadora.
+
+En un lenguaje compilado, la máquina de destino traduce directamente el programa. En un lenguaje interpretado, la máquina de destino no traduce directamente el código fuente. En cambio, un programa diferente, también conocido como intérprete, lee y ejecuta el código.
+
+Los lenguajes compilados son convertidos directamente a código máquina que el procesador puede ejecutar. Como resultado, suelen ser más rápidos y más eficientes al ejecutarse en comparación con los lenguajes interpretados. También le dan al desarrollador más control sobre aspectos del hardware, como la gestión de memoria y el uso del CPU.
+
+Los lenguajes compilados necesitan un paso de compilación (build), primero necesitan compilarse manualmente. Necesitas "recompilar" el programa cada vez que necesites hacer un cambio.
+
+Algunos ejemplos de lenguajes compilados puros son C, C++, Erlang, Haskell, Rust y Go.
+
+En cuanto a los lenguajes interpretados se puede encontrar a PHP, Ruby, Python y JavaScript.
+
+##  Diferencias Var vs Let
+
+1. **Let** te permite declarar variables limitando su alcance al bloque, declaración, o expresión donde se está usando.  **Var** define una variable global o local en una función sin importar el ámbito del bloque. 
+2. La otra diferencia entre **var** y **let** es que este último se inicializa a un valor sólo cuando un analizador lo evalúa.
+3. **Let** puede modificarse pero no volver a declararse. Cuando se utiliza **let**, no hay que preocuparse de sí se ha utilizado un nombre para una variable antes, puesto que una variable solo existe dentro de su ámbito.
+
+##  Diferencias entre tipos de comillas
+
+La comilla simple (') sirve para utilizar con palabras o textos, sin más.
+
+La comilla doble (") se usa generalmente para combinar caracteres, palabras y textos que deben ser tratados como tales junto con una o varías variables, caracteres especiales... que deben ser sustituídos por su correspondiente valor, todo ello en una misma instrucción.
+
+Las comillas invertidas (backticks) (`) tienen una gran utilidad en el script. Son muy utilizadas ya que convierten en variable el resultado de una instrucción o comando. Las comillas invertidas permiten la interpolación de variables y expresiones dentro del string, mientras que las comillas simples y dobles no lo permiten.
