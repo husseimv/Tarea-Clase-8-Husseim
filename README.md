@@ -19,3 +19,28 @@
 	 **Declarativa:** se vale de una función pura que recibe argumentos y retorna un resultado predecible.
  6. **Imperativa:** dispone del código estrictamente necesario para atender un único escenario (lo que evita tener que implementar sistemas de seguridad adicionales) y resulta además altamente eficiente por la facilidad de estos sistemas para ser interpretado.
 	 **Declarativa:** la necesidad de contemplar diferentes comportamientos de una misma función, así como evitar una reacción impredecible frente a cualquier escenario al que pueda ser expuesta.
+
+##  Lenguajes de programacion basados en C
+
+C es un lenguaje de programación (considerado como uno de lo más importantes en la actualidad) con el cual se desarrollan tanto aplicaciones como sistemas operativos a la vez que forma la base de otros lenguajes más actuales.
+
+### **Características del lenguaje C**
+
+-   Estructura de C - Lenguaje estructurado.
+-   Programación de nivel medio (beneficiándose de las ventajas de la programación de alto y bajo nivel).
+-   No depende del hardware, por lo que se puede migrar a otros sistemas.
+-   No es un lenguaje para una tarea específica, pudiendo programar tanto un sistema operativo, una hoja de cálculo o un juego.
+-   Ofrece un control absoluto de todo lo que sucede en el ordenador.
+-   Organización del trabajo con total libertad.
+-   Los programas son producidos de forma rápida y son bastante potentes.
+
+### ** Lenguajes basados en C más utilizados**
+
+1. Python
+2. Java
+3. JavaScript 
+4. C# (Microsoft .NET)
+5. PHP
+6. C/C++
+7. R
+8. Perl
